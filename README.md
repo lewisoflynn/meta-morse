@@ -4,7 +4,7 @@ This repo integrates Morse Micro software (Morse release v1.12.4) into the Yocto
 
 ## Environment set-up
 Here are the steps to get a vanilla image working for the Raspberry Pi 4B. You can skip this step if you already have it - just mind that I've tested this only on Kirkstone release of Yocto.
-
+test
 #### Host Dependencies
 ```
 sudo apt install gawk wget git diffstat unzip texinfo gcc build-essential chrpath socat cpio python3 python3-pip python3-pexpect xz-utils debianutils iputils-ping python3-git python3-jinja2 python3-subunit zstd liblz4-tool file locales libacl1
